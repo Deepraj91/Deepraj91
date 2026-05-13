@@ -1,7 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
-
-Hi, I’m Deepraj Kushwaha — a passionate Software Engineer, Android Developer, and AI/ML Enthusiast focused on building innovative and impactful digital solutions. I enjoy transforming ideas into real-world applications using Java, Kotlin, C++, Python, JavaScript, and modern full-stack technologies.
+I’m Deepraj Kushwaha a passionate Software Engineer, Android Developer, and AI/ML Enthusiast focused on building innovative and impactful digital solutions. I enjoy transforming ideas into real-world applications using Java, Kotlin, C++, Python, JavaScript, and modern full-stack technologies.
 
 My interests lie in developing intelligent systems for healthcare, agriculture, accessibility, and automation. I have worked on projects involving AI-powered disease detection, sign language translation, violence detection using deep learning, healthcare management portals, and smart agricultural solutions.
 
