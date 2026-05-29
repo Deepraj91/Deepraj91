@@ -21,7 +21,7 @@ My interests lie in developing intelligent systems for healthcare, agriculture, 
 ![](https://streak-stats.demolab.com/?user=Deepraj91&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Deepraj91&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
